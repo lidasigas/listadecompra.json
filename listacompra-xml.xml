@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+<nombre1>
+<localización> </localización>
+<oferta> </oferta>
+<vigencia> </vigencia>
+<productos>
+    <nombre> </nombre>
+    <unidades> </unidades>
+    <precio> </precio>
+    <precio unidad de medida> </precio por unidad de medida>
+    <adquirido recientemente> </adquirido recientemente>
+</productos>
+<productos>
+    <nombre> </nombre>
+    <unidades> </unidades>
+    <precio> </precio>
+    <precio por unidad de medida> </precio por unidad de medida>
+    <adquirido recientemente> </adquirido recientemente>
+</productos>
+<productos>
+    <nombre> </nombre>
+    <unidades> </unidades>
+    <precio> </precio>
+    <precio por unidad de medida> </precio por unidad de medida>
+    <adquirido recientemente> </adquirido recientemente>
+</productos>
+<productos>
+    <nombre> </nombre>
+    <unidades> </unidades>
+    <precio> </precio>
+    <precio por unidad de medida> </precio por unidad de medida>
+    <adquirido recientemente> </adquirido recientemente>
+</productos>
+<productos>
+    <nombre> </nombre>
+    <unidades> </unidades>
+    <precio> </precio>
+    <precio por unidad de medida> </precio por unidad de medida>
+    <adquirido recientemente> </adquirido recientemente>
+</productos>
+<productos>
+    <nombre> </nombre>
+    <unidades> </unidades>
+    <precio> </precio>
+    <precio por unidad de medida> </precio por unidad de medida>
+    <adquirido recientemente> </adquirido recientemente>
+</productos>
+</nombre1>
+<nombre2>
+    <localización> </localización>
+    <oferta> </oferta>
+    <vigencia> </vigencia>
+    <productos>
+        <nombre> </nombre>
+        <unidades> </unidades>
+        <precio> </precio>
+        <precio unidad de medida> </precio por unidad de medida>
+        <adquirido recientemente> </adquirido recientemente>
+    </productos>
+    <productos>
+        <nombre> </nombre>
+        <unidades> </unidades>
+        <precio> </precio>
+        <precio por unidad de medida> </precio por unidad de medida>
+        <adquirido recientemente> </adquirido recientemente>
+    </productos>
+    <productos>
+        <nombre> </nombre>
+        <unidades> </unidades>
+        <precio> </precio>
+        <precio por unidad de medida> </precio por unidad de medida>
+        <adquirido recientemente> </adquirido recientemente>
+    </productos>
+    <productos>
+        <nombre> </nombre>
+        <unidades> </unidades>
+        <precio> </precio>
+        <precio por unidad de medida> </precio por unidad de medida>
+        <adquirido recientemente> </adquirido recientemente>
+    </productos>
+    <productos>
+        <nombre> </nombre>
+        <unidades> </unidades>
+        <precio> </precio>
+        <precio por unidad de medida> </precio por unidad de medida>
+        <adquirido recientemente> </adquirido recientemente>
+    </productos>
+    <productos>
+        <nombre> </nombre>
+        <unidades> </unidades>
+        <precio> </precio>
+        <precio por unidad de medida> </precio por unidad de medida>
+        <adquirido recientemente> </adquirido recientemente>
+    </productos>
+    </nombre2>
+    <nombre3>
+        <localización> </localización>
+        <oferta> </oferta>
+        <vigencia> </vigencia>
+        <productos>
+            <nombre> </nombre>
+            <unidades> </unidades>
+            <precio> </precio>
+            <precio unidad de medida> </precio por unidad de medida>
+            <adquirido recientemente> </adquirido recientemente>
+        </productos>
+        <productos>
+            <nombre> </nombre>
+            <unidades> </unidades>
+            <precio> </precio>
+            <precio por unidad de medida> </precio por unidad de medida>
+            <adquirido recientemente> </adquirido recientemente>
+        </productos>
+        <productos>
+            <nombre> </nombre>
+            <unidades> </unidades>
+            <precio> </precio>
+            <precio por unidad de medida> </precio por unidad de medida>
+            <adquirido recientemente> </adquirido recientemente>
+        </productos>
+        <productos>
+            <nombre> </nombre>
+            <unidades> </unidades>
+            <precio> </precio>
+            <precio por unidad de medida> </precio por unidad de medida>
+            <adquirido recientemente> </adquirido recientemente>
+        </productos>
+        <productos>
+            <nombre> </nombre>
+            <unidades> </unidades>
+            <precio> </precio>
+            <precio por unidad de medida> </precio por unidad de medida>
+            <adquirido recientemente> </adquirido recientemente>
+        </productos>
+        <productos>
+            <nombre> </nombre>
+            <unidades> </unidades>
+            <precio> </precio>
+            <precio por unidad de medida> </precio por unidad de medida>
+            <adquirido recientemente> </adquirido recientemente>
+        </productos>
+        </nombre3>
+</supermercados>

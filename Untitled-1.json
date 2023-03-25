@@ -1,0 +1,133 @@
+{
+    "supermercados":[
+        {
+                "nombre": "",
+                "localización": "",
+                "ofertas": "",
+                "vigencia": "",
+                "productos":[     
+                    {
+                    "nombre":"",
+                    "unidades": "",
+                    "precio": "",
+                    "precio por unidad de medida": "",
+                    "adquirido recientemente": ""
+                    },
+                    {
+                    "nombre":"",
+                    "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    }   
+                ]
+            },
+            {
+                "nombre": "",
+                "localización": "",
+                "ofertas": "",
+                "vigencia": "",
+                "productos":[     
+                    {
+                    "nombre":"",
+                    "unidades": "",
+                    "precio": "",
+                    "precio por unidad de medida": "",
+                    "adquirido recientemente": ""
+                    },
+                    {
+                    "nombre":"",
+                    "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    }   
+                ]
+            },
+            {
+                "nombre": "",
+                "localización": "",
+                "ofertas": "",
+                "vigencia": "",
+                "productos":[     
+                    {
+                    "nombre":"",
+                    "unidades": "",
+                    "precio": "",
+                    "precio por unidad de medida": "",
+                    "adquirido recientemente": ""
+                    },
+                    {
+                    "nombre":"",
+                    "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    },
+                    {
+                        "nombre":"",
+                        "unidades": "",
+                        "precio": "",
+                        "precio por unidad": "",
+                        "adquirido recientemente": ""
+                    }   
+                ]
+            }   
+    ]
+}
